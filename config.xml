@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<include subset="iconset" name="1-snes">./views/iconsets/snes.xml</include>
+	<include subset="iconset" name="2-xbox">./views/iconsets/xbox.xml</include>
+	<include subset="iconset" name="3-psx">./views/iconsets/psx.xml</include>
+	<include subset="iconset" name="4-arcade">./views/iconsets/arcade.xml</include>
+	<include subset="iconset" name="5-jamma">./views/iconsets/jamma.xml</include>
+
+	<include subset="gameclipview" name="1-no_info">./views/gameclip.xml</include>
+
+	<include if="hd | fhd" subset="gamelistview" name="0-no_info">./views/hd_noinfo.xml</include>
+	<include if="hd | fhd" subset="gamelistview" name="1-info">./views/hd_info.xml</include>
+</theme>

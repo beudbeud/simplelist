@@ -1,0 +1,80 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<feature supported="carousel">
+		<view name="system">
+			<carousel name="systemcarousel">
+				<pos>0.29 0.485</pos>
+				<logoSize>0.45 0.100</logoSize>
+				<maxLogoCount>5</maxLogoCount>
+			</carousel>
+		</view>
+	</feature>
+
+	<view name="system, basic, detailed">
+		<image name="videoVignette" extra="true">
+			<path>./assets/vignette_framev.png</path>
+		</image>
+	</view>
+	<view name="system">
+		<image name="carouselShadow" extra="true">
+			<pos>0 0.2</pos>
+			<size>1 0.6</size>
+		</image>
+		<image name="carouselBG" extra="true">
+			<pos>0 0.4</pos>
+			<size>1 0.2</size>
+		</image>
+		<image name="carouselpattern" extra="true">
+			<pos>0 0.4</pos>
+			<size>1 0.2</size>
+		</image>
+		<image name="systemController" extra="true">
+			<pos>0.75 0.5</pos>
+			<maxSize>0.4 0.2</maxSize>
+		</image>
+		<image name="system" extra="true">
+			<pos>0.29 0.480</pos>
+			<maxSize>0.45 0.10</maxSize>
+		</image>
+	</view>
+	<view name="basic, detailed">
+		<image name="logo">
+			<pos>0.037 0.45</pos>
+			<maxSize>0.5 0.078125</maxSize>
+		</image>
+		<image name="listBG" extra="true">
+			<pos>0.5 0.40</pos>
+			<origin>0.5 0</origin>
+			<size>1 0.6</size>
+		</image>
+		<image name="listShadow" extra="true">
+			<pos>0 0.5</pos>
+			<origin>0 0.434</origin>
+			<size>1 1</size>
+			<path>./assets/carouselshadowr.png</path>
+			<zIndex>33</zIndex>
+		</image>
+		<image name="listShadow2" extra="true">
+			<pos>0 0.7</pos>
+			<origin>0 0.343</origin>
+			<size>1 1</size>
+			<path>./assets/carouselshadowr.png</path>
+			<zIndex>33</zIndex>
+		</image>
+		<textlist name="gamelist">
+			<pos>0.037 0.5</pos>
+			<size>0.92 0.4</size>
+		</textlist>
+		<image name="md_image">
+			<pos>0.5 0.25</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>1 1</maxSize>
+		</image>
+		<video name="md_video">
+			<pos>0.5 0.2109375</pos>
+			<maxSize>1 1</maxSize>
+		</video>
+	</view>
+</theme>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.2003393mm"
+   height="8.1993265mm"
+   viewBox="0 0 8.2003389 8.1993265"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="auto-actionbattleroyale_controller.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="10.548237"
+     inkscape:cx="46.405858"
+     inkscape:cy="23.795445"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:pageshadow="2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="2.4473742"
+       originy="4.1067728"
+       spacingx="1"
+       spacingy="0.99999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.178567,-56.695312)">
+    <!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+    <path
+       style="color:#000000;fill:#ffffff;-inkscape-stroke:none"
+       d="m 43.882812,56.695312 c -0.223186,0 -0.437524,0.08791 -0.595703,0.246094 l -2.5,2.5 c -0.171844,0.171847 -0.323706,0.361632 -0.453125,0.566406 l -1.160156,1.837891 c -0.112102,0.176599 -0.241987,0.341596 -0.390625,0.490234 l -0.664062,0.660157 0.957031,0.957031 0.662109,-0.664063 c 0.14724,-0.14724 0.312593,-0.278833 0.490235,-0.390625 l 1.83789,-1.160156 c 0.204775,-0.129418 0.394561,-0.281279 0.566406,-0.453125 l 2.5,-2.5 c 0.156803,-0.156801 0.246094,-0.370023 0.246094,-0.59375 0,-0.22319 -0.08792,-0.435573 -0.246094,-0.59375 l -0.65625,-0.65625 c -0.158177,-0.158177 -0.370561,-0.246094 -0.59375,-0.246094 z m 0,0.199219 c 0.170501,0 0.33191,0.06629 0.453125,0.1875 l 0.65625,0.65625 c 0.121213,0.121217 0.187501,0.282626 0.1875,0.453125 0,0.169963 -0.06809,0.333711 -0.1875,0.453125 l -2.501953,2.498047 c -0.16152,0.16152 -0.33916,0.30438 -0.53125,0.425781 l -1.83789,1.16211 c -0.190648,0.119976 -0.365886,0.260415 -0.523438,0.417968 l -0.521484,0.521485 -0.673828,-0.673828 0.521484,-0.519532 c 0.15933,-0.159329 0.298303,-0.334922 0.417969,-0.523437 h 0.002 l 1.160156,-1.837891 c 0.121402,-0.192089 0.264262,-0.371682 0.425781,-0.533203 l 2.5,-2.5 c 0.121214,-0.121218 0.282624,-0.1875 0.453125,-0.1875 z m -6.535156,6.134766 -0.02734,0.0293 0.07031,-0.0293 z m -0.02734,0.0293 h -0.002 c -0.187331,0.187335 -0.185992,0.493739 0.002,0.679687 l 1.015625,1.015625 c 0.187336,0.187333 0.49374,0.187946 0.679688,0 0.185287,-0.187281 0.186246,-0.493489 -0.002,-0.679687 L 38,63.058594 c -0.187335,-0.187334 -0.493739,-0.187946 -0.679688,0 z m 0.140625,0.140625 h 0.002 c 0.109319,-0.110494 0.285377,-0.111107 0.396484,0 l 1.013672,1.015625 c 0.110242,0.10907 0.109978,0.285322 0,0.396484 -0.109319,0.110494 -0.285376,0.111107 -0.396485,0 l -1.015625,-1.015625 c -0.109947,-0.108779 -0.109467,-0.283338 0,-0.394531 5.42e-4,-5.51e-4 -5.47e-4,-0.0014 0,-0.002 z"
+       id="path1" />
+  </g>
+</svg>

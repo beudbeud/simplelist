@@ -1,0 +1,38 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<view name="basic, detailed">
+		<image name="logo">
+			<pos>0.0208 0.074</pos>
+			<origin>0 0.5</origin>
+			<maxSize>0.28 0.132</maxSize>
+			<color>000000</color>
+		</image>
+		<image name="listBG" extra="true">
+			<pos>0 0.5</pos>
+			<origin>0 0.5</origin>
+			<size>0.35 1</size>
+			<path>./assets/bg_white.png</path>
+			<color>f7f7f7</color>
+			<zIndex>34</zIndex>
+		</image>
+		<image name="listShadow" extra="true">
+			<pos>0 0.5</pos>
+			<origin>0 0.5</origin>
+			<size>0.5 1</size>
+		</image>
+		<image name="listShadow2" extra="true">
+			<pos>0 0.5</pos>
+			<origin>0 0.5</origin>
+			<size>0.518 1</size>
+		</image>
+		<textlist name="gamelist">
+			<size>0.32 0.790</size>
+		</textlist>
+		<image name="md_image">
+			<pos>0.725 0.5</pos>
+		</image>
+		<video name="md_video">
+			<pos>0.725 0.5</pos>
+		</video>
+	</view>
+</theme>

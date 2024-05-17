@@ -1,0 +1,17 @@
+﻿<theme>
+  <formatVersion>4</formatVersion>
+  <view name="system, menu, detailed, gameclip">
+    <helpsystem name="help">
+      <iconB>../../assets/buttons/arcade/b.png</iconB>
+      <iconA>../../assets/buttons/arcade/a.png</iconA>
+      <iconX>../../assets/buttons/arcade/x.png</iconX>
+      <iconY>../../assets/buttons/arcade/y.png</iconY>
+      <iconR>../../assets/buttons/arcade/r.png</iconR>
+      <iconUpDownLeftRight>../../assets/buttons/arcade/dir-horizontal.png</iconUpDownLeftRight>
+      <iconUpDown>../../assets/buttons/arcade/dir-vertical.png</iconUpDown>
+      <iconLeftRight>../../assets/buttons/arcade/dir-horizontal.png</iconLeftRight>
+      <iconStart>../../assets/buttons/arcade/start.png</iconStart>
+      <iconSelect>../../assets/buttons/arcade/select.png</iconSelect>
+    </helpsystem>
+  </view>
+</theme>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="151"
+   height="104.125"
+   viewBox="0 0 151 104.125"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="default_controller.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.8749452"
+     inkscape:cx="95.09812"
+     inkscape:cy="11.354999"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15" />
+  <title
+     id="title2">Artboard</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="translate(-74.5,-97.9375)"
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+    <g
+       id="Artboard"
+       fill-rule="nonzero"
+       fill="#f4f4f4"
+       style="fill:#ffffff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         id="folder"
+         style="fill:#ffffff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+        <g
+           id="circle_13_"
+           style="fill:#ffffff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none" />
+        <g
+           id="Rounded_Rectangle_8"
+           transform="translate(75,131.25)"
+           style="fill:#ffffff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+          <path
+             style="color:#000000;fill:#ffffff;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             d="M 9.375,-0.5 C 3.929474,-0.5 -0.5,3.929474 -0.5,9.375 V 9.462891 L 18.279297,61.107422 18.25,60.9375 c 0,5.445526 4.429474,9.875 9.875,9.875 h 93.75 c 5.44553,0 9.875,-4.429474 9.875,-9.875 L 131.7207,61.107422 150.5,9.4628906 V 9.375 c 0,-5.445526 -4.42947,-9.875 -9.875,-9.875 z m 0,1 h 131.25 c 4.88434,0 8.83089,3.941698 8.86328,8.8183594 L 130.75,60.849609 v 0.08789 c 0,4.904464 -3.97054,8.875 -8.875,8.875 h -93.75 c -4.904464,0 -8.875,-3.970536 -8.875,-8.875 v -0.08789 L 0.51171875,9.3183594 C 0.54411162,4.441698 4.4906564,0.5 9.375,0.5 Z M 8.6621094,8.875 27.775391,61.4375 H 122.22461 L 122.3457,61.107422 141.33789,8.875 Z m 1.4277346,1 H 139.91016 L 121.52344,60.4375 H 28.474609 Z"
+             id="Shape" />
+        </g>
+        <g
+           id="Rounded_Rectangle_9"
+           transform="translate(84.375,98.4375)"
+           style="fill:#ffffff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+          <path
+             style="color:#000000;fill:#ffffff;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+             d="M 9.375,-0.5 C 3.929474,-0.5 -0.5,3.929474 -0.5,9.375 v 23.4375 c 0,5.445526 4.429474,9.875 9.875,9.875 h 32.8125 c 0.827703,0 1.599822,-0.14291 2.34375,-0.326172 0.743928,0.183262 1.516047,0.326172 2.34375,0.326172 h 75 c 5.44553,0 9.875,-4.429474 9.875,-9.875 v -9.375 c 0,-5.445526 -4.42947,-9.875 -9.875,-9.875 H 61.4375 V 9.375 c 0,-5.445526 -4.429474,-9.875 -9.875,-9.875 z m 0,1 h 42.1875 c 4.904464,0 8.875,3.9705363 8.875,8.875 v 5.1875 h 61.4375 c 4.90446,0 8.875,3.970536 8.875,8.875 v 9.375 c 0,4.904464 -3.97054,8.875 -8.875,8.875 h -75 c -0.760069,0 -1.490545,-0.126559 -2.220703,-0.3125 L 44.53125,41.34375 44.408203,41.375 c -0.730158,0.185941 -1.460634,0.3125 -2.220703,0.3125 H 9.375 C 4.4705363,41.6875 0.5,37.716964 0.5,32.8125 V 9.375 C 0.5,4.4705363 4.4705363,0.5 9.375,0.5 Z m -0.5,8.375 V 38 h 113.5 V 37.5 22.9375 H 52.0625 V 8.875 Z m 1,1 H 51.0625 V 23.9375 H 121.375 V 37 H 9.875 Z"
+             id="path9" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata836">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Artboard</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

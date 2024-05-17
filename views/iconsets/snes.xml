@@ -1,0 +1,17 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<view name="system, menu, detailed, gameclip">
+		<helpsystem name="help">
+			<iconB>../../assets/buttons/snes/b.png</iconB>
+			<iconA>../../assets/buttons/snes/a.png</iconA>
+			<iconX>../../assets/buttons/snes/x.png</iconX>
+			<iconY>../../assets/buttons/snes/y.png</iconY>
+			<iconR>../../assets/buttons/snes/r.png</iconR>
+			<iconUpDownLeftRight>../../assets/buttons/snes/dir-horizontal.png</iconUpDownLeftRight>
+			<iconUpDown>../../assets/buttons/snes/dir-vertical.png</iconUpDown>
+			<iconLeftRight>../../assets/buttons/snes/dir-horizontal.png</iconLeftRight>
+			<iconStart>../../assets/buttons/snes/start.png</iconStart>
+			<iconSelect>../../assets/buttons/snes/select.png</iconSelect>
+		</helpsystem>
+	</view>
+</theme>

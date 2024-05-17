@@ -1,0 +1,17 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<view name="system, menu, detailed, gameclip">
+		<helpsystem name="help">
+			<iconB>../../assets/buttons/psx/cross.png</iconB>
+			<iconA>../../assets/buttons/psx/circle.png</iconA>
+			<iconX>../../assets/buttons/psx/triangle.png</iconX>
+			<iconY>../../assets/buttons/psx/square.png</iconY>
+			<iconR>../../assets/buttons/psx/r.png</iconR>
+			<iconUpDownLeftRight>../../assets/buttons/psx/dir-horizontal.png</iconUpDownLeftRight>
+			<iconUpDown>../../assets/buttons/psx/dir-vertical.png</iconUpDown>
+			<iconLeftRight>../../assets/buttons/psx/dir-horizontal.png</iconLeftRight>
+			<iconStart>../../assets/buttons/psx/start.png</iconStart>
+			<iconSelect>../../assets/buttons/psx/select.png</iconSelect>
+		</helpsystem>
+	</view>
+</theme>

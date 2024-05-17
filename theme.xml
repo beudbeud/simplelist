@@ -1,0 +1,7 @@
+<theme name="Simple list" version="1.0" recalbox="9.2" compatibility="crt,jamma,tate,hdmi" resolutions="qvga,vga,hd,fhd">
+	<formatVersion>4</formatVersion>
+	<include>./theme-defaults.xml</include>
+	<include if="tate">./views/tate.xml</include>
+	<include if="hd | fhd">./views/hd.xml</include>
+	<include>./config.xml</include>
+</theme>

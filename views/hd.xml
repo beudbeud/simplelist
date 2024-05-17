@@ -1,0 +1,92 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<view name="system">
+		<image name="background" extra="true">
+			<tile>false</tile>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
+			<color>f4f4f4</color>
+		</image>
+		<image name="carouselShadow" extra="true">
+			<tile>false</tile>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
+		</image>
+		<image name="carouselBG" extra="true">
+			<tile>false</tile>
+			<pos>0 0.3333333</pos>
+			<origin>0 0</origin>
+			<size>1 0.333333</size>
+		</image>
+		<image name="systemController" extra="true">
+			<tile>false</tile>
+			<pos>0.70 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>0.4 0.20</maxSize>
+			<color>ffffff</color>
+		</image>
+		<image name="system" extra="true">
+			<tile>false</tile>
+			<zIndex>41</zIndex>
+			<origin>0.5 0.5</origin>
+			<pos>0.359 0.47</pos>
+			<maxSize>0.291 0.20</maxSize>
+			<color>ffffff</color>
+		</image>
+		<image name="systminfoBox" extra="true">
+			<pos>0.255 0.585</pos>
+			<size>0.2 0.2</size>
+		</image>
+		<text name="systemInfo">
+			<fontPath>../assets/font_sub.ttf</fontPath>
+			<fontSize>0.021</fontSize>
+			<alignment>left</alignment>
+			<origin>0 0</origin>
+			<pos>0.27 0.6</pos>
+			<size>0.125 0.02</size>
+		</text>
+	</view>
+	
+	<view name="menu, system, basic, detailed">
+		<helpsystem name="help">
+			<pos>0.005 0.98</pos>
+			<fontPath>../assets/font_sub.ttf</fontPath>
+			<fontSize>0.017</fontSize>
+		</helpsystem>
+	</view>
+	
+	<view name="basic, detailed">
+		<textlist name="gamelist">
+			<pos>0.0208 0.150</pos>
+			<origin>0 0</origin>
+			<size>0.32 0.790</size>
+			<selectorHeight>0.054</selectorHeight>
+			<fontPath>../assets/GmarketSansMedium.otf</fontPath>
+			<forceUppercase>0</forceUppercase>
+			<horizontalMargin>0.01</horizontalMargin>
+			<lineSpacing>1.5</lineSpacing>
+			<alignment>left</alignment>
+			<fontSize>0.032</fontSize>
+		</textlist>
+		<image name="background">
+			<tile>false</tile>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
+			<color>37484f</color>
+			<path>../assets/bg_white.png</path>
+		</image>
+		<image name="md_image">
+			<pos>0.78125 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>1 1</maxSize>
+		</image>
+		<video name="md_video">
+			<pos>0.7921875 0.5</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>1 1</maxSize>
+		</video>
+	</view>
+</theme>
